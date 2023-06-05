@@ -1,5 +1,5 @@
+**Do not make changes in this repo. The main repo is hosted on [CodeBerg](https://codeberg.org/NullPointerException/PipePipeClient)**
 ## README
-
 This is the client of [NewPipeEnhanced](https://github.com/InfinityLoop1309/NewPipeWithMoreServices), an unofficial fork of [TeamPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe).
 
 The following is the `README.MD` of [TeamPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe).
